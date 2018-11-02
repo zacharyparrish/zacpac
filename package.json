@@ -1,0 +1,48 @@
+{
+  "name": "zacpac",
+  "displayName": "ZacPac",
+  "description": "The ZacPac extension pack includes many great extensions and themes to get you started",
+  "version": "0.0.1",
+  "publisher": "zacharyparrish",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "akamud.vscode-theme-onedark",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "johnpapa.Angular2",
+    "octref.vetur",
+    "sdras.vue-vscode-snippets",
+    "2gua.rainbow-brackets",
+    "abusaidm.html-snippets",
+    "azamuddin.calmness-vsc-theme",
+    "christian-kohler.path-intellisense",
+    "dbankier.vscode-instant-markdown",
+    "donjayamanne.jquerysnippets",
+    "DryWolf.dark-plus-plus-theme",
+    "eamodio.gitlens",
+    "eg2.tslint",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "jolaleye.horizon-theme-vscode",
+    "liviuschera.noctis",
+    "Mikael.Angular-BeastCode",
+    "msjsdiag.debugger-for-chrome",
+    "peymanslh.blueberry-dark-theme",
+    "pranaygp.vscode-css-peek",
+    "quicktype.quicktype",
+    "ryu1kn.remote-repo-viewer",
+    "seansassenrath.vscode-theme-superonedark",
+    "shardulm94.trailing-spaces",
+    "techer.open-in-browser",
+    "tobiaswaelde.simple-php-formatter",
+    "wayou.vscode-todo-highlight",
+    "zacharyparrish.dark-and-cozy",
+    "Zignd.html-css-class-completion"
+  ]
+}
