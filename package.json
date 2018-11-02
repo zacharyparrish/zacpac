@@ -4,6 +4,10 @@
   "description": "The ZacPac extension pack includes many great extensions and themes to get you started",
   "version": "0.0.1",
   "publisher": "zacharyparrish",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/zacharyparrish/zacpac"
+  },
   "engines": {
     "vscode": "^1.28.0"
   },
