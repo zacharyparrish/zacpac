@@ -23,7 +23,6 @@
     "octref.vetur",
     "sdras.vue-vscode-snippets",
     "2gua.rainbow-brackets",
-    "abusaidm.html-snippets",
     "azamuddin.calmness-vsc-theme",
     "christian-kohler.path-intellisense",
     "dbankier.vscode-instant-markdown",
@@ -47,6 +46,7 @@
     "tobiaswaelde.simple-php-formatter",
     "wayou.vscode-todo-highlight",
     "zacharyparrish.dark-and-cozy",
-    "Zignd.html-css-class-completion"
+    "vsmobile.vscode-react-native",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
