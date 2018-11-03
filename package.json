@@ -8,6 +8,19 @@
       "type": "git",
       "url": "https://github.com/zacharyparrish/zacpac"
   },
+  "icon": "",
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "ZacPac",
+    "Extensions",
+    "Pack",
+    "Snippets"
+  ],
   "engines": {
     "vscode": "^1.28.0"
   },
