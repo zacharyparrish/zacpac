@@ -2,7 +2,7 @@
   "name": "zacpac",
   "displayName": "ZacPac",
   "description": "The ZacPac extension pack includes many great extensions and themes to get you started",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "zacharyparrish",
   "repository": {
       "type": "git",
