@@ -46,6 +46,6 @@ The ZacPac extension pack includes many great extensions, linters, snippets, and
 - [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
 - [Blueberry Dark Theme](https://marketplace.visualstudio.com/items?itemName=peymanslh.blueberry-dark-theme)
 - [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark)
-- [Dark and Cozy](https://marketplace.visualstudio.com/items?itemName=zacharyparrish.dark-and-cozy)
+- [Cozy](https://marketplace.visualstudio.com/items?itemName=zacharyparrish.cozy-vsc-theme)
 
 **Enjoy!**
