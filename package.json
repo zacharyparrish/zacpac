@@ -28,6 +28,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "wallabyjs.quokka-vscode",
     "akamud.vscode-theme-onedark",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
