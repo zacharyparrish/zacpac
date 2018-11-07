@@ -6,6 +6,7 @@ The ZacPac extension pack includes many great extensions, linters, snippets, and
 
 ### Extensions
 
+- [Quokka](https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
