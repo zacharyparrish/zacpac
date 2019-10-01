@@ -5,10 +5,10 @@
   "version": "0.0.3",
   "publisher": "zacharyparrish",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/zacharyparrish/zacpac"
+    "type": "git",
+    "url": "https://github.com/zacharyparrish/zacpac"
   },
-  "icon": "",
+  "icon": "profile.png",
   "galleryBanner": {
     "color": "#061526",
     "theme": "dark"
